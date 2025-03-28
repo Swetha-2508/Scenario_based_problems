@@ -1,4 +1,4 @@
-/*We all know the Fibonacci sequence, each term of it is the sum of the two previous terms. For Example, F(1) = 1, F(2) = 1, F(3) = 2, and so on.
+/* We all know the Fibonacci sequence, each term of it is the sum of the two previous terms. For Example, F(1) = 1, F(2) = 1, F(3) = 2, and so on.
 In this problem, we need to find just the last digit of a Fibonacci series termed F(n), where n is the input. 
 Write a program using functions to output the last digit of the term F(n). */
 import java.util.Scanner;
